@@ -7,3 +7,5 @@ It´s called "Notifiquei" and it´s basically a system that allows people living
 The app also offers a community space where pictures can be shared as well comments, complaints, suggestions and other kinds of interactions.
 
 This landing page was made with HTML and CSS. The future work to be done is the app-development for Android and IOS, using ReactJs.
+
+<img src="logo.JPG">
